@@ -1,0 +1,20 @@
+LARK OPTIONAL DICTIONARY DATA — COMPANY LIGHT LTD
+
+Wiktionary contributors to the English, French and Spanish editions.
+Extracted by Tatu Ylonen, Kaikki and Wiktextract.
+Adapted lexical data distributed under Creative Commons Attribution–ShareAlike 4.0 International.
+Licence and full legal text: https://creativecommons.org/licenses/by-sa/4.0/
+
+Original contributor histories:
+https://en.wiktionary.org/wiki/<source_word>
+https://fr.wiktionary.org/wiki/<source_word>
+https://es.wiktionary.org/wiki/<source_word>
+
+Source extract information:
+https://kaikki.org/dictionary/
+https://kaikki.org/frwiktionary/
+https://kaikki.org/eswiktionary/
+
+Changes by Company Light Ltd include Unicode/case normalisation, eligible sense and reading-field screening, documented inflection links, language selection, context arrangement, compression and SQLite indexing. Source-supplied translations retain native text and any supplied transliteration or grammatical labels. English source senses/examples remain distinct from unassigned translation contexts. Missing translations are not invented.
+
+Preserve these source credits, licence link and change notice when sharing adaptations. No endorsement by Wikimedia, Wiktionary contributors, Kaikki or Wiktextract is claimed. Source data are supplied without warranties under the licence. The separate app source code, branding and artwork are not licensed by this data notice.

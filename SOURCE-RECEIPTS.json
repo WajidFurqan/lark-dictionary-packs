@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "sourceVersion": "lark-rich-q-bbe01b4e3a68f347c4af",
+  "sources": [
+    {
+      "file": "en.jsonl",
+      "bytes": 3431211190,
+      "sha256": "ce2b80e5ad1132f14cedd2f531a606e1f0c6aeab422d50515e88db13a16a59a7",
+      "url": "https://kaikki.org/dictionary/English/kaikki.org-dictionary-English.jsonl"
+    },
+    {
+      "file": "fr.partial",
+      "bytes": 592920809,
+      "sha256": "9053b1845fb3e045fa1fbe3f749122fa43e21b49bfa741cadd50255ae6ca0126",
+      "url": "https://kaikki.org/dictionary/French/kaikki.org-dictionary-French.jsonl"
+    },
+    {
+      "file": "es.partial",
+      "bytes": 1119672965,
+      "sha256": "336903d1290968d77bd361c620d7d799ad7a7a9bc6ad353ec35954f2e15fbe6f",
+      "url": "https://kaikki.org/dictionary/Spanish/kaikki.org-dictionary-Spanish.jsonl"
+    },
+    {
+      "file": "fr-native.jsonl.gz",
+      "bytes": 736596796,
+      "sha256": "33c7b73bc11d2533c9c0e0be6484ded76bd9ff29337065f2070b4f1b7d2e4f3c",
+      "url": "https://kaikki.org/frwiktionary/raw-wiktextract-data.jsonl.gz"
+    },
+    {
+      "file": "es-native.jsonl.gz",
+      "bytes": 103584114,
+      "sha256": "206001cbdfc783cf4076789366e2c0cb27860da739ddfcc0189c4c878b189da1",
+      "url": "https://kaikki.org/eswiktionary/raw-wiktextract-data.jsonl.gz"
+    }
+  ],
+  "englishReadingPackSHA256": "e75459082ed53088a598f7430ec16c42076350204d3d357d82813551d25bb852",
+  "translationSourceSHA256": "ce2b80e5ad1132f14cedd2f531a606e1f0c6aeab422d50515e88db13a16a59a7",
+  "adaptedDataLicence": "CC BY-SA 4.0",
+  "sourceURLsMayChange": true
+}
